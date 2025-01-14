@@ -1,8 +1,9 @@
-
 # BOOK-RECOMMENDER-SYSTEM
 
 I have developed a book recommender system deployed on my local host using PyCharm. The system utilizes two recommendation strategies: a popularity-based approach that highlights trending books and a collaborative filtering method that analyzes user ratings to suggest books that align with individual preferences. This dual approach ensures that users receive both widely accepted recommendations and personalized suggestions based on their reading history, enhancing their overall experience.
 
+![App Screenshot](https://github.com/Sanika2029/book-recommender/blob/main/Home%20Page.png)
+![App Screenshot](https://github.com/Sanika2029/book-recommender/blob/main/PyCharm-deployment.png)
 
 ## RECOMMENDATION TYPES
 Recommendation systems can be categorized into 4 main types: 
