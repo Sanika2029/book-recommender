@@ -18,13 +18,13 @@ Recommendation systems can be categorized into 4 main types:
 
 ## POPULARITY BASED
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Sanika2029/book-recommender/blob/main/Popularity%20based.png)
 
  To show TOP 50 books with Highest avg Rating but min of 250 votes.
 
 ## COLLABORATIVE BASED
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Sanika2029/book-recommender/blob/main/Collaborative%20filtering.png)
 
 Considering users who has done min of 200 ratings
 and Books which has been voted by more than 50 users
